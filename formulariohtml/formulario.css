@@ -1,10 +1,8 @@
-#{
-    margin: 0;
-    padding: 0;
-}
-
 #titulo{
 
     font-family: sans-serif;
     color: rgb(131, 9, 9);
+}
+.campo{
+    background-color: aqua;
 }
